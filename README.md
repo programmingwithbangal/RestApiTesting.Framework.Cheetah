@@ -41,3 +41,8 @@ Microsoft Visual Studio IDE is used to develop this Framework.
 ### Run Tests
 * Test => Windows => Test Explorer => Run All
 <img src ="RestApiTesting.Framework.Cheetah/images/testexplorer.png" width=500>
+
+### Run Tests with Command Prompt/Windows PowerShell
+* Open Folder in File Explorer: ..\RestApiTesting.Framework.Cheetah\bin\Debug\netcoreapp2.1
+* Open Command Prompt/Windows PowerShell
+* Run "dotnet vstest RestApiTesting.Framework.Cheetah.dll"
