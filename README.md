@@ -29,5 +29,15 @@ https://fluentassertions.com/
 
 ## Integrated Development Environment
 Microsoft Visual Studio IDE is used to develop this Framework.
+
 ### Visual Studio Extensions
-SpecFlow for Visual Studio
+* Extensions => Manage Extensions => Search and Install SpecFlow for Visual Studio
+<img src ="RestApiTesting.Framework.Cheetah/images/specflowextension.png" width=350>
+
+### Build Solution
+* Build => Build Solution
+<img src ="RestApiTesting.Framework.Cheetah/images/build.png" width=350>
+
+### Run Tests
+* Test => Windows => Test Explorer => Run All
+<img src ="RestApiTesting.Framework.Cheetah/images/testexplorer.png" width=500>
